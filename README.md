@@ -1,6 +1,5 @@
 # Kaggle_Eedi_2024_sayoulala
 
-
 Kaggle Eeddi Rank 10 solution
 
 [](https://)比赛地址：https://www.kaggle.com/competitions/eedi-mining-misconceptions-in-mathematics
@@ -9,6 +8,5 @@ Kaggle Eeddi Rank 10 solution
 
 持续更新中。
 
-
-
 * 2024.12.21--更新数据合成代码和数据
+* 2024.12.23--更新召回代码[](https://)
